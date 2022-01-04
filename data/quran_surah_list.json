@@ -1,0 +1,800 @@
+[
+  {
+    "index": 1,
+    "arabic": "الفاتحة",
+    "latin": "Al-Fatihah",
+    "translation": "Pembukaan",
+    "ayah_count": 7
+  },
+  {
+    "index": 2,
+    "arabic": "البقرة",
+    "latin": "Al-Baqarah",
+    "translation": "Sapi",
+    "ayah_count": 286
+  },
+  {
+    "index": 3,
+    "arabic": "اٰل عمران",
+    "latin": "Ali 'Imran",
+    "translation": "Keluarga Imran",
+    "ayah_count": 200
+  },
+  {
+    "index": 4,
+    "arabic": "النساۤء",
+    "latin": "An-Nisa'",
+    "translation": "Wanita",
+    "ayah_count": 176
+  },
+  {
+    "index": 5,
+    "arabic": "الماۤئدة",
+    "latin": "Al-Ma'idah",
+    "translation": "Hidangan",
+    "ayah_count": 120
+  },
+  {
+    "index": 6,
+    "arabic": "الانعام",
+    "latin": "Al-An'am",
+    "translation": "Binatang Ternak",
+    "ayah_count": 165
+  },
+  {
+    "index": 7,
+    "arabic": "الاعراف",
+    "latin": "Al-A'raf",
+    "translation": "Tempat Tertinggi",
+    "ayah_count": 206
+  },
+  {
+    "index": 8,
+    "arabic": "الانفال",
+    "latin": "Al-Anfal",
+    "translation": "Rampasan Perang",
+    "ayah_count": 75
+  },
+  {
+    "index": 9,
+    "arabic": "التوبة",
+    "latin": "At-Taubah",
+    "translation": "Pengampunan",
+    "ayah_count": 129
+  },
+  {
+    "index": 10,
+    "arabic": "يونس",
+    "latin": "Yunus",
+    "translation": "Yunus",
+    "ayah_count": 109
+  },
+  {
+    "index": 11,
+    "arabic": "هود",
+    "latin": "Hud",
+    "translation": "Hud",
+    "ayah_count": 123
+  },
+  {
+    "index": 12,
+    "arabic": "يوسف",
+    "latin": "Yusuf",
+    "translation": "Yusuf",
+    "ayah_count": 111
+  },
+  {
+    "index": 13,
+    "arabic": "الرّعد",
+    "latin": "Ar-Ra'd",
+    "translation": "Guruh",
+    "ayah_count": 43
+  },
+  {
+    "index": 14,
+    "arabic": "ابرٰهيم",
+    "latin": "Ibrahim",
+    "translation": "Ibrahim",
+    "ayah_count": 52
+  },
+  {
+    "index": 15,
+    "arabic": "الحجر",
+    "latin": "Al-Hijr",
+    "translation": "Hijr",
+    "ayah_count": 99
+  },
+  {
+    "index": 16,
+    "arabic": "النحل",
+    "latin": "An-Nahl",
+    "translation": "Lebah",
+    "ayah_count": 128
+  },
+  {
+    "index": 17,
+    "arabic": "الاسراۤء",
+    "latin": "Al-Isra'",
+    "translation": "Memperjalankan Malam Hari",
+    "ayah_count": 111
+  },
+  {
+    "index": 18,
+    "arabic": "الكهف",
+    "latin": "Al-Kahf",
+    "translation": "Goa",
+    "ayah_count": 110
+  },
+  {
+    "index": 19,
+    "arabic": "مريم",
+    "latin": "Maryam",
+    "translation": "Maryam",
+    "ayah_count": 98
+  },
+  {
+    "index": 20,
+    "arabic": "طٰهٰ",
+    "latin": "Taha",
+    "translation": "Taha",
+    "ayah_count": 135
+  },
+  {
+    "index": 21,
+    "arabic": "الانبياۤء",
+    "latin": "Al-Anbiya'",
+    "translation": "Para Nabi",
+    "ayah_count": 112
+  },
+  {
+    "index": 22,
+    "arabic": "الحج",
+    "latin": "Al-Hajj",
+    "translation": "Haji",
+    "ayah_count": 78
+  },
+  {
+    "index": 23,
+    "arabic": "المؤمنون",
+    "latin": "Al-Mu'minun",
+    "translation": "Orang-Orang Mukmin",
+    "ayah_count": 118
+  },
+  {
+    "index": 24,
+    "arabic": "النّور",
+    "latin": "An-Nur",
+    "translation": "Cahaya",
+    "ayah_count": 64
+  },
+  {
+    "index": 25,
+    "arabic": "الفرقان",
+    "latin": "Al-Furqan",
+    "translation": "Pembeda",
+    "ayah_count": 77
+  },
+  {
+    "index": 26,
+    "arabic": "الشعراۤء",
+    "latin": "Asy-Syu'ara'",
+    "translation": "Para Penyair",
+    "ayah_count": 227
+  },
+  {
+    "index": 27,
+    "arabic": "النمل",
+    "latin": "An-Naml",
+    "translation": "Semut-semut",
+    "ayah_count": 93
+  },
+  {
+    "index": 28,
+    "arabic": "القصص",
+    "latin": "Al-Qasas",
+    "translation": "Kisah-Kisah",
+    "ayah_count": 88
+  },
+  {
+    "index": 29,
+    "arabic": "العنكبوت",
+    "latin": "Al-'Ankabut",
+    "translation": "Laba-Laba",
+    "ayah_count": 69
+  },
+  {
+    "index": 30,
+    "arabic": "الرّوم",
+    "latin": "Ar-Rum",
+    "translation": "Romawi",
+    "ayah_count": 60
+  },
+  {
+    "index": 31,
+    "arabic": "لقمٰن",
+    "latin": "Luqman",
+    "translation": "Luqman",
+    "ayah_count": 34
+  },
+  {
+    "index": 32,
+    "arabic": "السّجدة",
+    "latin": "As-Sajdah",
+    "translation": "Sajdah",
+    "ayah_count": 30
+  },
+  {
+    "index": 33,
+    "arabic": "الاحزاب",
+    "latin": "Al-Ahzab",
+    "translation": "Golongan Yang Bersekutu",
+    "ayah_count": 73
+  },
+  {
+    "index": 34,
+    "arabic": "سبأ",
+    "latin": "Saba'",
+    "translation": "Saba'",
+    "ayah_count": 54
+  },
+  {
+    "index": 35,
+    "arabic": "فاطر",
+    "latin": "Fatir",
+    "translation": "Maha Pencipta",
+    "ayah_count": 45
+  },
+  {
+    "index": 36,
+    "arabic": "يٰسۤ",
+    "latin": "Yasin",
+    "translation": "Yasin",
+    "ayah_count": 83
+  },
+  {
+    "index": 37,
+    "arabic": "الصّٰۤفّٰت",
+    "latin": "As-Saffat",
+    "translation": "Barisan-Barisan",
+    "ayah_count": 182
+  },
+  {
+    "index": 38,
+    "arabic": "ص",
+    "latin": "Sad",
+    "translation": "Sad",
+    "ayah_count": 88
+  },
+  {
+    "index": 39,
+    "arabic": "الزمر",
+    "latin": "Az-Zumar",
+    "translation": "Rombongan",
+    "ayah_count": 75
+  },
+  {
+    "index": 40,
+    "arabic": "غافر",
+    "latin": "Gafir",
+    "translation": "Maha Pengampun",
+    "ayah_count": 85
+  },
+  {
+    "index": 41,
+    "arabic": "فصّلت",
+    "latin": "Fussilat",
+    "translation": "Yang Dijelaskan",
+    "ayah_count": 54
+  },
+  {
+    "index": 42,
+    "arabic": "الشورى",
+    "latin": "Asy-Syura",
+    "translation": "Musyawarah",
+    "ayah_count": 53
+  },
+  {
+    "index": 43,
+    "arabic": "الزخرف",
+    "latin": "Az-Zukhruf",
+    "translation": "Perhiasan",
+    "ayah_count": 89
+  },
+  {
+    "index": 44,
+    "arabic": "الدخان",
+    "latin": "Ad-Dukhan",
+    "translation": "Kabut",
+    "ayah_count": 59
+  },
+  {
+    "index": 45,
+    "arabic": "الجاثية",
+    "latin": "Al-Jasiyah",
+    "translation": "Berlutut",
+    "ayah_count": 37
+  },
+  {
+    "index": 46,
+    "arabic": "الاحقاف",
+    "latin": "Al-Ahqaf",
+    "translation": "Bukit Pasir",
+    "ayah_count": 35
+  },
+  {
+    "index": 47,
+    "arabic": "محمّد",
+    "latin": "Muhammad",
+    "translation": "Muhammad",
+    "ayah_count": 38
+  },
+  {
+    "index": 48,
+    "arabic": "الفتح",
+    "latin": "Al-Fath",
+    "translation": "Kemenangan",
+    "ayah_count": 29
+  },
+  {
+    "index": 49,
+    "arabic": "الحجرٰت",
+    "latin": "Al-Hujurat",
+    "translation": "Kamar-Kamar",
+    "ayah_count": 18
+  },
+  {
+    "index": 50,
+    "arabic": "ق",
+    "latin": "Qaf",
+    "translation": "Qaf",
+    "ayah_count": 45
+  },
+  {
+    "index": 51,
+    "arabic": "الذّٰريٰت",
+    "latin": "Az-Zariyat",
+    "translation": "Angin yang Menerbangkan",
+    "ayah_count": 60
+  },
+  {
+    "index": 52,
+    "arabic": "الطور",
+    "latin": "At-Tur",
+    "translation": "Bukit Tursina",
+    "ayah_count": 49
+  },
+  {
+    "index": 53,
+    "arabic": "النجم",
+    "latin": "An-Najm",
+    "translation": "Bintang",
+    "ayah_count": 62
+  },
+  {
+    "index": 54,
+    "arabic": "القمر",
+    "latin": "Al-Qamar",
+    "translation": "Bulan",
+    "ayah_count": 55
+  },
+  {
+    "index": 55,
+    "arabic": "الرحمن",
+    "latin": "Ar-Rahman",
+    "translation": "Maha Pengasih",
+    "ayah_count": 78
+  },
+  {
+    "index": 56,
+    "arabic": "الواقعة",
+    "latin": "Al-Waqi'ah",
+    "translation": "Hari Kiamat",
+    "ayah_count": 96
+  },
+  {
+    "index": 57,
+    "arabic": "الحديد",
+    "latin": "Al-Hadid",
+    "translation": "Besi",
+    "ayah_count": 29
+  },
+  {
+    "index": 58,
+    "arabic": "المجادلة",
+    "latin": "Al-Mujadalah",
+    "translation": "Gugatan",
+    "ayah_count": 22
+  },
+  {
+    "index": 59,
+    "arabic": "الحشر",
+    "latin": "Al-Hasyr",
+    "translation": "Pengusiran",
+    "ayah_count": 24
+  },
+  {
+    "index": 60,
+    "arabic": "الممتحنة",
+    "latin": "Al-Mumtahanah",
+    "translation": "Wanita Yang Diuji",
+    "ayah_count": 13
+  },
+  {
+    "index": 61,
+    "arabic": "الصّفّ",
+    "latin": "As-Saff",
+    "translation": "Barisan",
+    "ayah_count": 14
+  },
+  {
+    "index": 62,
+    "arabic": "الجمعة",
+    "latin": "Al-Jumu'ah",
+    "translation": "Jumat",
+    "ayah_count": 11
+  },
+  {
+    "index": 63,
+    "arabic": "المنٰفقون",
+    "latin": "Al-Munafiqun",
+    "translation": "Orang-Orang Munafik",
+    "ayah_count": 11
+  },
+  {
+    "index": 64,
+    "arabic": "التغابن",
+    "latin": "At-Tagabun",
+    "translation": "Pengungkapan Kesalahan",
+    "ayah_count": 18
+  },
+  {
+    "index": 65,
+    "arabic": "الطلاق",
+    "latin": "At-Talaq",
+    "translation": "Talak",
+    "ayah_count": 12
+  },
+  {
+    "index": 66,
+    "arabic": "التحريم",
+    "latin": "At-Tahrim",
+    "translation": "Pengharaman",
+    "ayah_count": 12
+  },
+  {
+    "index": 67,
+    "arabic": "الملك",
+    "latin": "Al-Mulk",
+    "translation": "Kerajaan",
+    "ayah_count": 30
+  },
+  {
+    "index": 68,
+    "arabic": "القلم",
+    "latin": "Al-Qalam",
+    "translation": "Pena",
+    "ayah_count": 52
+  },
+  {
+    "index": 69,
+    "arabic": "الحاۤقّة",
+    "latin": "Al-Haqqah",
+    "translation": "Hari Kiamat",
+    "ayah_count": 52
+  },
+  {
+    "index": 70,
+    "arabic": "المعارج",
+    "latin": "Al-Ma'arij",
+    "translation": "Tempat Naik",
+    "ayah_count": 44
+  },
+  {
+    "index": 71,
+    "arabic": "نوح",
+    "latin": "Nuh",
+    "translation": "Nuh",
+    "ayah_count": 28
+  },
+  {
+    "index": 72,
+    "arabic": "الجن",
+    "latin": "Al-Jinn",
+    "translation": "Jin",
+    "ayah_count": 28
+  },
+  {
+    "index": 73,
+    "arabic": "المزّمّل",
+    "latin": "Al-Muzzammil",
+    "translation": "Orang Yang Berselimut",
+    "ayah_count": 20
+  },
+  {
+    "index": 74,
+    "arabic": "المدّثّر",
+    "latin": "Al-Muddassir",
+    "translation": "Orang Yang Berkemul",
+    "ayah_count": 56
+  },
+  {
+    "index": 75,
+    "arabic": "القيٰمة",
+    "latin": "Al-Qiyamah",
+    "translation": "Hari Kiamat",
+    "ayah_count": 40
+  },
+  {
+    "index": 76,
+    "arabic": "الانسان",
+    "latin": "Al-Insan",
+    "translation": "Manusia",
+    "ayah_count": 31
+  },
+  {
+    "index": 77,
+    "arabic": "المرسلٰت",
+    "latin": "Al-Mursalat",
+    "translation": "Malaikat Yang Diutus",
+    "ayah_count": 50
+  },
+  {
+    "index": 78,
+    "arabic": "النبأ",
+    "latin": "An-Naba'",
+    "translation": "Berita Besar",
+    "ayah_count": 40
+  },
+  {
+    "index": 79,
+    "arabic": "النّٰزعٰت",
+    "latin": "An-Nazi'at",
+    "translation": "Malaikat Yang Mencabut",
+    "ayah_count": 46
+  },
+  {
+    "index": 80,
+    "arabic": "عبس",
+    "latin": "'Abasa",
+    "translation": "Bermuka Masam",
+    "ayah_count": 42
+  },
+  {
+    "index": 81,
+    "arabic": "التكوير",
+    "latin": "At-Takwir",
+    "translation": "Penggulungan",
+    "ayah_count": 29
+  },
+  {
+    "index": 82,
+    "arabic": "الانفطار",
+    "latin": "Al-Infitar",
+    "translation": "Terbelah",
+    "ayah_count": 19
+  },
+  {
+    "index": 83,
+    "arabic": "المطفّفين",
+    "latin": "Al-Mutaffifin",
+    "translation": "Orang-Orang Curang",
+    "ayah_count": 36
+  },
+  {
+    "index": 84,
+    "arabic": "الانشقاق",
+    "latin": "Al-Insyiqaq",
+    "translation": "Terbelah",
+    "ayah_count": 25
+  },
+  {
+    "index": 85,
+    "arabic": "البروج",
+    "latin": "Al-Buruj",
+    "translation": "Gugusan Bintang",
+    "ayah_count": 22
+  },
+  {
+    "index": 86,
+    "arabic": "الطارق",
+    "latin": "At-Tariq",
+    "translation": "Yang Datang Di Malam Hari",
+    "ayah_count": 17
+  },
+  {
+    "index": 87,
+    "arabic": "الاعلى",
+    "latin": "Al-A'la",
+    "translation": "Maha Tinggi",
+    "ayah_count": 19
+  },
+  {
+    "index": 88,
+    "arabic": "الغاشية",
+    "latin": "Al-Gasyiyah",
+    "translation": "Hari Kiamat",
+    "ayah_count": 26
+  },
+  {
+    "index": 89,
+    "arabic": "الفجر",
+    "latin": "Al-Fajr",
+    "translation": "Fajar",
+    "ayah_count": 30
+  },
+  {
+    "index": 90,
+    "arabic": "البلد",
+    "latin": "Al-Balad",
+    "translation": "Negeri",
+    "ayah_count": 20
+  },
+  {
+    "index": 91,
+    "arabic": "الشمس",
+    "latin": "Asy-Syams",
+    "translation": "Matahari",
+    "ayah_count": 15
+  },
+  {
+    "index": 92,
+    "arabic": "الّيل",
+    "latin": "Al-Lail",
+    "translation": "Malam",
+    "ayah_count": 21
+  },
+  {
+    "index": 93,
+    "arabic": "الضحى",
+    "latin": "Ad-Duha",
+    "translation": "Duha",
+    "ayah_count": 11
+  },
+  {
+    "index": 94,
+    "arabic": "الشرح",
+    "latin": "Asy-Syarh",
+    "translation": "Lapang",
+    "ayah_count": 8
+  },
+  {
+    "index": 95,
+    "arabic": "التين",
+    "latin": "At-Tin",
+    "translation": "Buah Tin",
+    "ayah_count": 8
+  },
+  {
+    "index": 96,
+    "arabic": "العلق",
+    "latin": "Al-'Alaq",
+    "translation": "Segumpal Darah",
+    "ayah_count": 19
+  },
+  {
+    "index": 97,
+    "arabic": "القدر",
+    "latin": "Al-Qadr",
+    "translation": "Kemuliaan",
+    "ayah_count": 5
+  },
+  {
+    "index": 98,
+    "arabic": "البيّنة",
+    "latin": "Al-Bayyinah",
+    "translation": "Bukti Nyata",
+    "ayah_count": 8
+  },
+  {
+    "index": 99,
+    "arabic": "الزلزلة",
+    "latin": "Az-Zalzalah",
+    "translation": "Guncangan",
+    "ayah_count": 8
+  },
+  {
+    "index": 100,
+    "arabic": "العٰديٰت",
+    "latin": "Al-'Adiyat",
+    "translation": "Kuda Yang Berlari Kencang",
+    "ayah_count": 11
+  },
+  {
+    "index": 101,
+    "arabic": "القارعة",
+    "latin": "Al-Qari'ah",
+    "translation": "Hari Kiamat",
+    "ayah_count": 11
+  },
+  {
+    "index": 102,
+    "arabic": "التكاثر",
+    "latin": "At-Takasur",
+    "translation": "Bermegah-Megahan",
+    "ayah_count": 8
+  },
+  {
+    "index": 103,
+    "arabic": "العصر",
+    "latin": "Al-'Asr",
+    "translation": "Asar",
+    "ayah_count": 3
+  },
+  {
+    "index": 104,
+    "arabic": "الهمزة",
+    "latin": "Al-Humazah",
+    "translation": "Pengumpat",
+    "ayah_count": 9
+  },
+  {
+    "index": 105,
+    "arabic": "الفيل",
+    "latin": "Al-Fil",
+    "translation": "Gajah",
+    "ayah_count": 5
+  },
+  {
+    "index": 106,
+    "arabic": "قريش",
+    "latin": "Quraisy",
+    "translation": "Quraisy",
+    "ayah_count": 4
+  },
+  {
+    "index": 107,
+    "arabic": "الماعون",
+    "latin": "Al-Ma'un",
+    "translation": "Barang Yang Berguna",
+    "ayah_count": 7
+  },
+  {
+    "index": 108,
+    "arabic": "الكوثر",
+    "latin": "Al-Kausar",
+    "translation": "Pemberian Yang Banyak",
+    "ayah_count": 3
+  },
+  {
+    "index": 109,
+    "arabic": "الكٰفرون",
+    "latin": "Al-Kafirun",
+    "translation": "Orang-Orang kafir",
+    "ayah_count": 6
+  },
+  {
+    "index": 110,
+    "arabic": "النصر",
+    "latin": "An-Nasr",
+    "translation": "Pertolongan",
+    "ayah_count": 3
+  },
+  {
+    "index": 111,
+    "arabic": "اللهب",
+    "latin": "Al-Lahab",
+    "translation": "Api Yang Bergejolak",
+    "ayah_count": 5
+  },
+  {
+    "index": 112,
+    "arabic": "الاخلاص",
+    "latin": "Al-Ikhlas",
+    "translation": "Ikhlas",
+    "ayah_count": 4
+  },
+  {
+    "index": 113,
+    "arabic": "الفلق",
+    "latin": "Al-Falaq",
+    "translation": "Subuh",
+    "ayah_count": 5
+  },
+  {
+    "index": 114,
+    "arabic": "الناس",
+    "latin": "An-Nas",
+    "translation": "Manusia",
+    "ayah_count": 6
+  }
+]

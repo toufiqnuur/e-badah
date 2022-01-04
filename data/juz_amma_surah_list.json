@@ -1,0 +1,261 @@
+[
+  {
+    "index": 78,
+    "arabic": "النبأ",
+    "latin": "An-Naba'",
+    "translation": "Berita Besar",
+    "ayah_count": 40
+  },
+  {
+    "index": 79,
+    "arabic": "النّٰزعٰت",
+    "latin": "An-Nazi'at",
+    "translation": "Malaikat Yang Mencabut",
+    "ayah_count": 46
+  },
+  {
+    "index": 80,
+    "arabic": "عبس",
+    "latin": "'Abasa",
+    "translation": "Bermuka Masam",
+    "ayah_count": 42
+  },
+  {
+    "index": 81,
+    "arabic": "التكوير",
+    "latin": "At-Takwir",
+    "translation": "Penggulungan",
+    "ayah_count": 29
+  },
+  {
+    "index": 82,
+    "arabic": "الانفطار",
+    "latin": "Al-Infitar",
+    "translation": "Terbelah",
+    "ayah_count": 19
+  },
+  {
+    "index": 83,
+    "arabic": "المطفّفين",
+    "latin": "Al-Mutaffifin",
+    "translation": "Orang-Orang Curang",
+    "ayah_count": 36
+  },
+  {
+    "index": 84,
+    "arabic": "الانشقاق",
+    "latin": "Al-Insyiqaq",
+    "translation": "Terbelah",
+    "ayah_count": 25
+  },
+  {
+    "index": 85,
+    "arabic": "البروج",
+    "latin": "Al-Buruj",
+    "translation": "Gugusan Bintang",
+    "ayah_count": 22
+  },
+  {
+    "index": 86,
+    "arabic": "الطارق",
+    "latin": "At-Tariq",
+    "translation": "Yang Datang Di Malam Hari",
+    "ayah_count": 17
+  },
+  {
+    "index": 87,
+    "arabic": "الاعلى",
+    "latin": "Al-A'la",
+    "translation": "Maha Tinggi",
+    "ayah_count": 19
+  },
+  {
+    "index": 88,
+    "arabic": "الغاشية",
+    "latin": "Al-Gasyiyah",
+    "translation": "Hari Kiamat",
+    "ayah_count": 26
+  },
+  {
+    "index": 89,
+    "arabic": "الفجر",
+    "latin": "Al-Fajr",
+    "translation": "Fajar",
+    "ayah_count": 30
+  },
+  {
+    "index": 90,
+    "arabic": "البلد",
+    "latin": "Al-Balad",
+    "translation": "Negeri",
+    "ayah_count": 20
+  },
+  {
+    "index": 91,
+    "arabic": "الشمس",
+    "latin": "Asy-Syams",
+    "translation": "Matahari",
+    "ayah_count": 15
+  },
+  {
+    "index": 92,
+    "arabic": "الّيل",
+    "latin": "Al-Lail",
+    "translation": "Malam",
+    "ayah_count": 21
+  },
+  {
+    "index": 93,
+    "arabic": "الضحى",
+    "latin": "Ad-Duha",
+    "translation": "Duha",
+    "ayah_count": 11
+  },
+  {
+    "index": 94,
+    "arabic": "الشرح",
+    "latin": "Asy-Syarh",
+    "translation": "Lapang",
+    "ayah_count": 8
+  },
+  {
+    "index": 95,
+    "arabic": "التين",
+    "latin": "At-Tin",
+    "translation": "Buah Tin",
+    "ayah_count": 8
+  },
+  {
+    "index": 96,
+    "arabic": "العلق",
+    "latin": "Al-'Alaq",
+    "translation": "Segumpal Darah",
+    "ayah_count": 19
+  },
+  {
+    "index": 97,
+    "arabic": "القدر",
+    "latin": "Al-Qadr",
+    "translation": "Kemuliaan",
+    "ayah_count": 5
+  },
+  {
+    "index": 98,
+    "arabic": "البيّنة",
+    "latin": "Al-Bayyinah",
+    "translation": "Bukti Nyata",
+    "ayah_count": 8
+  },
+  {
+    "index": 99,
+    "arabic": "الزلزلة",
+    "latin": "Az-Zalzalah",
+    "translation": "Guncangan",
+    "ayah_count": 8
+  },
+  {
+    "index": 100,
+    "arabic": "العٰديٰت",
+    "latin": "Al-'Adiyat",
+    "translation": "Kuda Yang Berlari Kencang",
+    "ayah_count": 11
+  },
+  {
+    "index": 101,
+    "arabic": "القارعة",
+    "latin": "Al-Qari'ah",
+    "translation": "Hari Kiamat",
+    "ayah_count": 11
+  },
+  {
+    "index": 102,
+    "arabic": "التكاثر",
+    "latin": "At-Takasur",
+    "translation": "Bermegah-Megahan",
+    "ayah_count": 8
+  },
+  {
+    "index": 103,
+    "arabic": "العصر",
+    "latin": "Al-'Asr",
+    "translation": "Asar",
+    "ayah_count": 3
+  },
+  {
+    "index": 104,
+    "arabic": "الهمزة",
+    "latin": "Al-Humazah",
+    "translation": "Pengumpat",
+    "ayah_count": 9
+  },
+  {
+    "index": 105,
+    "arabic": "الفيل",
+    "latin": "Al-Fil",
+    "translation": "Gajah",
+    "ayah_count": 5
+  },
+  {
+    "index": 106,
+    "arabic": "قريش",
+    "latin": "Quraisy",
+    "translation": "Quraisy",
+    "ayah_count": 4
+  },
+  {
+    "index": 107,
+    "arabic": "الماعون",
+    "latin": "Al-Ma'un",
+    "translation": "Barang Yang Berguna",
+    "ayah_count": 7
+  },
+  {
+    "index": 108,
+    "arabic": "الكوثر",
+    "latin": "Al-Kausar",
+    "translation": "Pemberian Yang Banyak",
+    "ayah_count": 3
+  },
+  {
+    "index": 109,
+    "arabic": "الكٰفرون",
+    "latin": "Al-Kafirun",
+    "translation": "Orang-Orang kafir",
+    "ayah_count": 6
+  },
+  {
+    "index": 110,
+    "arabic": "النصر",
+    "latin": "An-Nasr",
+    "translation": "Pertolongan",
+    "ayah_count": 3
+  },
+  {
+    "index": 111,
+    "arabic": "اللهب",
+    "latin": "Al-Lahab",
+    "translation": "Api Yang Bergejolak",
+    "ayah_count": 5
+  },
+  {
+    "index": 112,
+    "arabic": "الاخلاص",
+    "latin": "Al-Ikhlas",
+    "translation": "Ikhlas",
+    "ayah_count": 4
+  },
+  {
+    "index": 113,
+    "arabic": "الفلق",
+    "latin": "Al-Falaq",
+    "translation": "Subuh",
+    "ayah_count": 5
+  },
+  {
+    "index": 114,
+    "arabic": "الناس",
+    "latin": "An-Nas",
+    "translation": "Manusia",
+    "ayah_count": 6
+  }
+]
